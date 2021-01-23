@@ -2,10 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Concepts:
+- Composition
+- Component
+- Life cycle
+- Props
+- State
+- Hooks e.g. useEffect
+- Single Responsibility Principle
+- Context
+
 ## Available Scripts
 
 In the project directory, you can run:
-
+f
 ### `npm start`
 
 Runs the app in the development mode.\

@@ -1,0 +1,10 @@
+.list-item-container {
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 400px;
+    margin-top: 16px;
+    horiz-align: center;
+    align-content: center;
+    alignment: center;
+    alignment-baseline: center;
+}
