@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26f239a5-01ec-4fe8-b8c3-3ac1ab6ab875" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PeopleListItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PeopleListItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PeopleListItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/PeopleListItem.js" afterDir="false" />
-    </list>
+    <list default="true" id="26f239a5-01ec-4fe8-b8c3-3ac1ab6ab875" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611181553961</updated>
-      <workItem from="1611181559286" duration="57834000" />
+      <workItem from="1611181559286" duration="58088000" />
     </task>
     <servers />
   </component>

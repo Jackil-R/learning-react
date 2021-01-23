@@ -14,6 +14,8 @@ Concepts:
 - Single Responsibility Principle
 - Context
 
+Course: https://learning.oreilly.com/videos/learn-react-for/9780136784395/
+
 ## Available Scripts
 
 In the project directory, you can run:
